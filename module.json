@@ -1,0 +1,128 @@
+{
+  "id": "ffxiv-ttrpg-core-rulebook-compendia",
+  "title": "FFXIV TTRPG Core Rulebook Compendia",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "AxeBane",
+      "email": "https://github.com/AxeBane",
+      "discord": "@axebane (discord)",
+      "flags": {}
+    },
+    {
+      "name": "Sheen Evertrue",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "axes-compendium-ffxiv-companions-and-pets",
+      "label": "Companions & Pets",
+      "path": "packs/axes-compendium-ffxiv-companions-and-pets",
+      "type": "Actor",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "axes-compendium-ffxiv-macros",
+      "label": "Macros",
+      "path": "packs/axes-compendium-ffxiv-macros",
+      "type": "Macro",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "axes-compendium-ffxiv-rollable-tables",
+      "label": "Rollable Tables",
+      "path": "packs/axes-compendium-ffxiv-rollable-tables",
+      "type": "RollTable",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "axes-compendium-ffxiv-titles",
+      "label": "Titles",
+      "path": "packs/axes-compendium-ffxiv-titles",
+      "type": "Item",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "axes-compendium-items",
+      "label": "Items",
+      "path": "packs/axes-compendium-items",
+      "type": "Item",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "axes-compendium-job-actions-and-traits",
+      "label": "Job Actions & Traits",
+      "path": "packs/axes-compendium-job-actions-and-traits",
+      "type": "Item",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "axes-compendium-journal-entries",
+      "label": "Journal Entries",
+      "path": "packs/axes-compendium-journal-entries",
+      "type": "JournalEntry",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Axe's Compendium",
+      "sorting": "m",
+      "packs": [
+        "axes-compendium-ffxiv-companions-and-pets",
+        "axes-compendium-ffxiv-macros",
+        "axes-compendium-ffxiv-rollable-tables",
+        "axes-compendium-ffxiv-titles",
+        "axes-compendium-items",
+        "axes-compendium-job-actions-and-traits",
+        "axes-compendium-journal-entries"
+      ],
+      "color": null,
+      "folders": []
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "ffxiv",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "<p>This compendium aims to include most of the core content within the FFXIV TTRPG Standard Rulebook.</p><p>This compendium will not contain images at this time. Please duplicate the compendium locally and source your own images if you wish to use them.</p><p>This module is not a replacement for owning the standard rulebook and is merely meant to help facilitate play for GMs who own it. This compendium is not affiliated with Square Enix or any of its subsidiaries in any way shape or form.</p><p></p><p>Reach out to AxeBane on the FFXIV TTRPG Fan Discord if you have any questions or concerns.</p>",
+  "url": "https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia"
+}
