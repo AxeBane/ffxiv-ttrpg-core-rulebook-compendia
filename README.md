@@ -1,6 +1,6 @@
 A compendium module for FFXIV TTRPG that includes some of the content available in the Core Rulebook. This is intended to be used with [Valmyrr's FFXIV TTRPG Custom System](https://github.com/Valamyrr/FFxivTTRPG)
 
-This module currently does **not** contain images. You will have to source them yourself at present.
+This module is built to support the images supplied by the [image pack](https://github.com/AxeBane/ffxiv-ttrpg-icons-pack) module, however you are welcome to use your own instead.
 
 # WARNING
 
