@@ -2,8 +2,8 @@
   "id": "ffxiv-ttrpg-core-rulebook-compendia",
   "title": "FFXIV TTRPG Core Rulebook Compendia",
   "manifest": "https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia/releases/latest/download/module.json",
-  "download": "https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia/releases/download/1.1.0/ffxiv-ttrpg-core-rulebook-compendia.zip",
-  "version": "1.1.0",
+  "download": "https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia/releases/download/1.2.0/ffxiv-ttrpg-core-rulebook-compendia.zip",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -124,7 +124,7 @@
         "compatibility": {}
       }
     ],
-	"recommends": [
+    "recommends": [
       {
         "id": "ffxiv-ttrpg-icons-pack",
         "type": "module",
