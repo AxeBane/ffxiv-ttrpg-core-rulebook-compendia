@@ -2,7 +2,7 @@ A compendium module for FFXIV TTRPG that includes some of the content available 
 
 This module is built to support the images supplied by the [image pack](https://github.com/AxeBane/ffxiv-ttrpg-icons-pack) module, however you are welcome to use your own instead.
 
-For installation, copy the following into Foundry VTT's manual install bar: ``https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia/releases/latest/download/module.json``
+**For installation**, copy the following into Foundry VTT's manual install bar: ``https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia/releases/latest/download/module.json``
   
 ## This module expects the following custom tags to be created:
 ## As of v2.4 of the system, these tags are defaults, but if for any reason they aren't present, they expect the following:
