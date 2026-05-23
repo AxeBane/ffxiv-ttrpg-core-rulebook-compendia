@@ -1,8 +1,7 @@
-2025/05/26-14:57:21.836 7964 Recovering log #114
-2025/05/26-14:57:21.838 7964 Delete type=0 #114
-2025/05/26-14:57:21.838 7964 Delete type=3 #112
-2025/05/26-15:15:15.342 4eec Level-0 table #119: started
-2025/05/26-15:15:15.342 4eec Level-0 table #119: 0 bytes OK
-2025/05/26-15:15:15.343 4eec Delete type=0 #117
-2025/05/26-15:15:15.344 4eec Manual compaction at level-0 from '!folders!GaSRtwpaP14TLsGk' @ 72057594037927935 : 1 .. '!items!zorZVLrXtzDOSVbH' @ 0 : 0; will stop at (end)
-2025/05/26-15:15:15.349 4eec Manual compaction at level-1 from '!folders!GaSRtwpaP14TLsGk' @ 72057594037927935 : 1 .. '!items!zorZVLrXtzDOSVbH' @ 0 : 0; will stop at (end)
+2026/05/23-16:22:07.277 14d8 Recovering log #135
+2026/05/23-16:22:07.281 14d8 Delete type=0 #135
+2026/05/23-16:22:07.281 14d8 Delete type=3 #133
+2026/05/23-16:46:30.767 8664 Level-0 table #140: started
+2026/05/23-16:46:30.768 8664 Level-0 table #140: 0 bytes OK
+2026/05/23-16:46:30.769 8664 Delete type=0 #138
+2026/05/23-16:46:30.776 8664 Manual compaction at level-0 from '!folders!GaSRtwpaP14TLsGk' @ 72057594037927935 : 1 .. '!items!zorZVLrXtzDOSVbH' @ 0 : 0; will stop at (end)

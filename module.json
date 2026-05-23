@@ -2,11 +2,11 @@
   "id": "ffxiv-ttrpg-core-rulebook-compendia",
   "title": "FFXIV TTRPG Core Rulebook Compendia",
   "manifest": "https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia/releases/latest/download/module.json",
-  "download": "https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia/releases/download/1.4.0/ffxiv-ttrpg-core-rulebook-compendia.zip",
-  "version": "1.4.0",
+  "download": "https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia/releases/download/2.0.0/ffxiv-ttrpg-core-rulebook-compendia.zip",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "authors": [
     {
@@ -97,6 +97,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "axes-compendium-jobs",
+      "label": "Jobs",
+      "path": "packs/axes-compendium-jobs",
+      "type": "Item",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -110,6 +121,7 @@
         "axes-compendium-ffxiv-titles",
         "axes-compendium-items",
         "axes-compendium-job-actions-and-traits",
+        "axes-compendium-jobs",
         "axes-compendium-journal-entries"
       ],
       "color": null,
