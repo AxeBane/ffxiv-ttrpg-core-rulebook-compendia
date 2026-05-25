@@ -133,7 +133,9 @@
       {
         "id": "ffxiv",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "3.1.0"
+        }
       }
     ],
     "recommends": [
