@@ -1,14 +1,14 @@
-2026/05/23-16:22:07.293 7cd8 Recovering log #138
-2026/05/23-16:22:07.297 7cd8 Delete type=0 #138
-2026/05/23-16:22:07.297 7cd8 Delete type=3 #136
-2026/05/23-16:46:30.771 8664 Level-0 table #143: started
-2026/05/23-16:46:30.774 8664 Level-0 table #143: 15115 bytes OK
-2026/05/23-16:46:30.775 8664 Delete type=0 #141
-2026/05/23-16:46:30.776 8664 Manual compaction at level-0 from '!folders!04JqxnVEHWeJWNzq' @ 72057594037927935 : 1 .. '!items!zwiWo7c7f1muxe58' @ 0 : 0; will stop at '!items!zUsM9Htz5vijiw5Z' @ 4917 : 1
-2026/05/23-16:46:30.776 8664 Compacting 1@0 + 1@1 files
-2026/05/23-16:46:30.792 8664 Generated table #144@0: 1866 keys, 706650 bytes
-2026/05/23-16:46:30.792 8664 Compacted 1@0 + 1@1 files => 706650 bytes
-2026/05/23-16:46:30.794 8664 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/05/23-16:46:30.794 8664 Delete type=2 #127
-2026/05/23-16:46:30.795 8664 Delete type=2 #143
-2026/05/23-16:46:30.806 8664 Manual compaction at level-0 from '!items!zUsM9Htz5vijiw5Z' @ 4917 : 1 .. '!items!zwiWo7c7f1muxe58' @ 0 : 0; will stop at (end)
+2026/05/26-00:31:47.075 5844 Recovering log #166
+2026/05/26-00:31:47.079 5844 Delete type=0 #166
+2026/05/26-00:31:47.079 5844 Delete type=3 #165
+2026/05/26-00:36:50.919 76a8 Level-0 table #170: started
+2026/05/26-00:36:50.919 76a8 Level-0 table #170: 0 bytes OK
+2026/05/26-00:36:50.920 76a8 Delete type=0 #168
+2026/05/26-00:36:50.935 76a8 Manual compaction at level-0 from '!folders!04JqxnVEHWeJWNzq' @ 72057594037927935 : 1 .. '!items!zwiWo7c7f1muxe58' @ 0 : 0; will stop at '!items!tKed5EBLCd25qKpp' @ 4927 : 1
+2026/05/26-00:36:50.935 76a8 Compacting 2@0 + 0@1 files
+2026/05/26-00:36:50.954 76a8 Generated table #171@0: 1866 keys, 707539 bytes
+2026/05/26-00:36:50.954 76a8 Compacted 2@0 + 0@1 files => 707539 bytes
+2026/05/26-00:36:50.955 76a8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/26-00:36:50.955 76a8 Delete type=2 #144
+2026/05/26-00:36:50.955 76a8 Delete type=2 #149
+2026/05/26-00:36:50.965 76a8 Manual compaction at level-0 from '!items!tKed5EBLCd25qKpp' @ 4927 : 1 .. '!items!zwiWo7c7f1muxe58' @ 0 : 0; will stop at (end)
