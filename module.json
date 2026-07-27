@@ -134,7 +134,7 @@
         "id": "ffxiv",
         "type": "system",
         "compatibility": {
-          "minimum": "5.0.2"
+          "minimum": "5.0.3"
         }
       }
     ],
