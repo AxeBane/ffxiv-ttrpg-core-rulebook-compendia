@@ -130,6 +130,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "axes-compendium-stb-companions-and-pets",
+      "label": "Companions & Pets (StB)",
+      "path": "packs/axes-compendium-stb-companions-and-pets",
+      "type": "Actor",
+      "system": "ffxiv",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -146,7 +157,8 @@
         "axes-compendium-jobs",
         "axes-compendium-journal-entries",
         "axes-compendium-stb-job-actions-and-traits",
-        "axes-compendium-stb-jobs"
+        "axes-compendium-stb-jobs",
+        "axes-compendium-stb-companions-and-pets"
       ],
       "color": null,
       "folders": []
