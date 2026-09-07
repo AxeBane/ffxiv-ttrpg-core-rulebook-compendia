@@ -1,6 +1,6 @@
 {
-  "id": "ffxiv-ttrpg-core-rulebook-compendia",
-  "title": "FFXIV TTRPG Core Rulebook Compendia",
+  "id": "ffxiv-ttrpg-rulebook-compendia",
+  "title": "FFXIV TTRPG Rulebook Compendia",
   "manifest": "https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia/releases/latest/download/module.json",
   "download": "https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia/releases/download/3.0.0/module.zip",
   "version": "3.0.0",
@@ -182,6 +182,6 @@
       }
     ]
   },
-  "description": "<p>This compendium aims to include most of the core content within the FFXIV TTRPG Standard Rulebook.</p><p>This module is not a replacement for owning the standard rulebook and is merely meant to help facilitate play for GMs who own it. This compendium is not affiliated with Square Enix or any of its subsidiaries in any way shape or form.</p><p>Reach out to AxeBane on the FFXIV TTRPG Fan Discord if you have any questions or concerns.</p>",
+  "description": "<p>This compendium aims to include content from the FFXIV TTRPG Standard Rulebook and Stormblood expansion.</p><p>This module is not a replacement for owning the relevant rulebooks and is merely meant to help facilitate play for GMs who own them. This compendium is not affiliated with Square Enix or any of its subsidiaries in any way shape or form.</p><p>Reach out to AxeBane on the FFXIV TTRPG Fan Discord if you have any questions or concerns.</p>",
   "url": "https://github.com/AxeBane/ffxiv-ttrpg-core-rulebook-compendia"
 }
